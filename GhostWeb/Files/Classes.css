@@ -1,0 +1,10 @@
+body{
+    background-color: #212529;
+}
+
+a{
+    color: darkslategray;
+}
+a:hover{
+  color: azure;
+}
